@@ -1,0 +1,118 @@
+body{
+    background-color: rgba(235, 235, 235, 0.822);
+}
+
+h1{
+    height: 5rem;
+    background-color:rgb(255, 195, 154);
+    border: 2px solid white;
+    color: white;
+    text-shadow: 0 0 8px #ffffff, 0 0 10px #000000;
+    padding: 10px;
+    margin:auto;
+    font-size: 3rem;
+}
+
+nav{
+    display: flex;
+    text-align: right;
+    background-color: rgb(255, 215, 189);
+    border: 1px solid white;
+    height: 2rem;
+}
+
+
+#login{
+    font-size: 1rem;
+    text-align: center;
+    text-shadow: 0 0 3px #000000, 0 0 5px #ffffff;
+    width: 5rem;
+    background-color:rgb(255, 229, 212);
+    border-top:0;
+    border-bottom:0;
+    border-left: 2px solid white;
+    border-right: 1px solid white;
+    margin-left: auto;
+}
+
+#logout{
+    font-size: 1rem;
+    text-align: center;
+    text-shadow: 0 0 3px #000000, 0 0 5px #ffffff;
+    width: 5rem;
+    background-color:rgb(255, 229, 212);
+    border-top:0;
+    border-bottom:0;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+#search-button{
+    font-size: 1rem;
+    text-align: center;
+    text-shadow: 0 0 3px #000000, 0 0 5px #ffffff;
+    width: 5rem;
+    background-color:rgb(255, 229, 212);
+    border-top:0;
+    border-bottom:0;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+#home{
+    font-size: 1rem;
+    text-align: center;
+    text-shadow: 0 0 3px #000000, 0 0 5px #ffffff;
+    width: 5rem;
+    background-color:rgb(255, 229, 212);
+    border-top:0;
+    border-bottom:0;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+#register{
+    font-size: 1rem;
+    text-align: center;
+    text-shadow: 0 0 3px #000000, 0 0 5px #ffffff;
+    width: 5rem;
+    background-color:rgb(255, 229, 212);
+    border-top:0;
+    border-bottom:0;
+    border-left: 1px solid white;
+    border-right: 2px solid white;
+}
+
+#login-form{
+    background-color: rgb(230, 230, 230);
+    border: 1px solid white;
+    width: 30rem;
+    height: 15rem;
+    text-align: center;
+    padding-top:30px;
+    margin:auto;
+    margin-top: 50px;
+
+}
+#register-form{
+    background-color: rgb(230, 230, 230);
+    border: 1px solid white;
+    width: 30rem;
+    height: 25rem;
+    text-align: center;
+    padding-top:30px;
+    margin:auto;
+    margin-top: 50px;
+
+}
+
+#search{
+    text-align: right;
+}
+
+#register-submit{
+    margin-top: 20px;
+}
+
+#login-submit{
+    margin-top: 20px;
+}
